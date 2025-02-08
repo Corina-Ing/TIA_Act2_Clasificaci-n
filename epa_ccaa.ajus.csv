@@ -1,0 +1,673 @@
+Anio,MES,OCUPACION,CCAA,CIFRAS_ABSOLUTAS
+2020,3,Asalariados,Andalucia,325600
+2020,3,Asalariados,Aragon,43044
+2020,3,Asalariados,Canarias,233519
+2020,3,Asalariados,Cantabria,21024
+2020,3,Asalariados,Castilla - La Mancha,65930
+2020,3,Asalariados,Castilla y Leon,76510
+2020,3,Asalariados,Cataluna,378533
+2020,3,Asalariados,Ceuta y Melilla,4792
+2020,3,Asalariados,Comunidad Foral de Navarra,22272
+2020,3,Asalariados,Comunidad Valenciana,204483
+2020,3,Asalariados,Comunidad de Madrid,351561
+2020,3,Asalariados,Extremadura,25200
+2020,3,Asalariados,Galicia,88032
+2020,3,Asalariados,Islas Baleares,82343
+2020,3,Asalariados,La Rioja,8707
+2020,3,Asalariados,Pais Vasco,80269
+2020,3,Asalariados,Principado de Asturias,32710
+2020,3,Asalariados,Region de Murcia,32891
+2020,3,Autonomos,Andalucia,85383
+2020,3,Autonomos,Aragon,13494
+2020,3,Autonomos,Canarias,29240
+2020,3,Autonomos,Cantabria,6829
+2020,3,Autonomos,Castilla - La Mancha,19379
+2020,3,Autonomos,Castilla y Leon,20706
+2020,3,Autonomos,Cataluna,82682
+2020,3,Autonomos,Comunidad Foral de Navarra,5824
+2020,3,Autonomos,Comunidad Valenciana,50758
+2020,3,Autonomos,Comunidad de Madrid,49300
+2020,3,Autonomos,Extremadura,7366
+2020,3,Autonomos,Galicia,27915
+2020,3,Autonomos,Islas Baleares,16189
+2020,3,Autonomos,Pais Vasco,20673
+2020,3,Autonomos,Principado de Asturias,14238
+2020,3,Autonomos,Region de Murcia,7577
+2020,6,Asalariados,Andalucia,262483
+2020,6,Asalariados,Aragon,35336
+2020,6,Asalariados,Canarias,192409
+2020,6,Asalariados,Cantabria,15196
+2020,6,Asalariados,Castilla - La Mancha,55378
+2020,6,Asalariados,Castilla y Leon,69157
+2020,6,Asalariados,Cataluna,308193
+2020,6,Asalariados,Ceuta y Melilla,3566
+2020,6,Asalariados,Comunidad Foral de Navarra,15911
+2020,6,Asalariados,Comunidad Valenciana,175399
+2020,6,Asalariados,Comunidad de Madrid,293734
+2020,6,Asalariados,Extremadura,17379
+2020,6,Asalariados,Galicia,81682
+2020,6,Asalariados,Islas Baleares,96402
+2020,6,Asalariados,La Rioja,8337
+2020,6,Asalariados,Pais Vasco,70788
+2020,6,Asalariados,Principado de Asturias,30498
+2020,6,Asalariados,Region de Murcia,30873
+2020,6,Autonomos,Andalucia,84538
+2020,6,Autonomos,Aragon,14068
+2020,6,Autonomos,Canarias,32119
+2020,6,Autonomos,Cantabria,5856
+2020,6,Autonomos,Castilla - La Mancha,17516
+2020,6,Autonomos,Castilla y Leon,21223
+2020,6,Autonomos,Cataluna,80926
+2020,6,Autonomos,Comunidad Foral de Navarra,5542
+2020,6,Autonomos,Comunidad Valenciana,57451
+2020,6,Autonomos,Comunidad de Madrid,52304
+2020,6,Autonomos,Extremadura,8772
+2020,6,Autonomos,Galicia,23906
+2020,6,Autonomos,Islas Baleares,13553
+2020,6,Autonomos,La Rioja,3172
+2020,6,Autonomos,Pais Vasco,19999
+2020,6,Autonomos,Principado de Asturias,10761
+2020,6,Autonomos,Region de Murcia,7245
+2020,9,Asalariados,Andalucia,311956
+2020,9,Asalariados,Aragon,41367
+2020,9,Asalariados,Canarias,153664
+2020,9,Asalariados,Cantabria,21400
+2020,9,Asalariados,Castilla - La Mancha,66725
+2020,9,Asalariados,Castilla y Leon,70519
+2020,9,Asalariados,Cataluna,327959
+2020,9,Asalariados,Ceuta y Melilla,3733
+2020,9,Asalariados,Comunidad Foral de Navarra,18624
+2020,9,Asalariados,Comunidad Valenciana,199317
+2020,9,Asalariados,Comunidad de Madrid,299782
+2020,9,Asalariados,Extremadura,20713
+2020,9,Asalariados,Galicia,89412
+2020,9,Asalariados,Islas Baleares,130092
+2020,9,Asalariados,La Rioja,8772
+2020,9,Asalariados,Pais Vasco,67617
+2020,9,Asalariados,Principado de Asturias,31922
+2020,9,Asalariados,Region de Murcia,39198
+2020,9,Autonomos,Andalucia,76495
+2020,9,Autonomos,Aragon,14579
+2020,9,Autonomos,Canarias,26627
+2020,9,Autonomos,Cantabria,5865
+2020,9,Autonomos,Castilla - La Mancha,17277
+2020,9,Autonomos,Castilla y Leon,21210
+2020,9,Autonomos,Cataluna,87540
+2020,9,Autonomos,Comunidad Foral de Navarra,5454
+2020,9,Autonomos,Comunidad Valenciana,58361
+2020,9,Autonomos,Comunidad de Madrid,62899
+2020,9,Autonomos,Extremadura,9447
+2020,9,Autonomos,Galicia,27776
+2020,9,Autonomos,Islas Baleares,16441
+2020,9,Autonomos,La Rioja,3373
+2020,9,Autonomos,Pais Vasco,24218
+2020,9,Autonomos,Principado de Asturias,10799
+2020,12,Asalariados,Andalucia,252344
+2020,12,Asalariados,Aragon,35892
+2020,12,Asalariados,Canarias,152085
+2020,12,Asalariados,Cantabria,16987
+2020,12,Asalariados,Castilla - La Mancha,61842
+2020,12,Asalariados,Castilla y Leon,62975
+2020,12,Asalariados,Cataluna,318513
+2020,12,Asalariados,Comunidad Foral de Navarra,13991
+2020,12,Asalariados,Comunidad Valenciana,184280
+2020,12,Asalariados,Comunidad de Madrid,315734
+2020,12,Asalariados,Extremadura,20322
+2020,12,Asalariados,Galicia,78626
+2020,12,Asalariados,Islas Baleares,92215
+2020,12,Asalariados,La Rioja,9028
+2020,12,Asalariados,Pais Vasco,61613
+2020,12,Asalariados,Principado de Asturias,28612
+2020,12,Asalariados,Region de Murcia,38688
+2020,12,Autonomos,Andalucia,75420
+2020,12,Autonomos,Aragon,15057
+2020,12,Autonomos,Canarias,30670
+2020,12,Autonomos,Castilla - La Mancha,18559
+2020,12,Autonomos,Castilla y Leon,22105
+2020,12,Autonomos,Cataluna,79533
+2020,12,Autonomos,Comunidad Valenciana,48055
+2020,12,Autonomos,Comunidad de Madrid,58880
+2020,12,Autonomos,Extremadura,7669
+2020,12,Autonomos,Galicia,26409
+2020,12,Autonomos,Islas Baleares,14370
+2020,12,Autonomos,La Rioja,3066
+2020,12,Autonomos,Pais Vasco,18066
+2020,12,Autonomos,Principado de Asturias,11502
+2021,3,Asalariados,Andalucia,231306
+2021,3,Asalariados,Aragon,35774
+2021,3,Asalariados,Canarias,138772
+2021,3,Asalariados,Cantabria,17815
+2021,3,Asalariados,Castilla - La Mancha,58449
+2021,3,Asalariados,Castilla y Leon,53948
+2021,3,Asalariados,Cataluna,313170
+2021,3,Asalariados,Comunidad Foral de Navarra,17761
+2021,3,Asalariados,Comunidad Valenciana,155026
+2021,3,Asalariados,Comunidad de Madrid,321028
+2021,3,Asalariados,Extremadura,16772
+2021,3,Asalariados,Galicia,74060
+2021,3,Asalariados,Islas Baleares,91117
+2021,3,Asalariados,La Rioja,6502
+2021,3,Asalariados,Pais Vasco,55966
+2021,3,Asalariados,Principado de Asturias,26032
+2021,3,Asalariados,Region de Murcia,39111
+2021,3,Autonomos,Andalucia,61767
+2021,3,Autonomos,Aragon,8795
+2021,3,Autonomos,Canarias,25986
+2021,3,Autonomos,Cantabria,4242
+2021,3,Autonomos,Castilla - La Mancha,17323
+2021,3,Autonomos,Castilla y Leon,18708
+2021,3,Autonomos,Cataluna,78379
+2021,3,Autonomos,Comunidad Valenciana,45619
+2021,3,Autonomos,Comunidad de Madrid,66974
+2021,3,Autonomos,Extremadura,9114
+2021,3,Autonomos,Galicia,24388
+2021,3,Autonomos,Islas Baleares,15839
+2021,3,Autonomos,Pais Vasco,11358
+2021,3,Autonomos,Principado de Asturias,10596
+2021,3,Autonomos,Region de Murcia,13477
+2021,6,Asalariados,Andalucia,285354
+2021,6,Asalariados,Aragon,34339
+2021,6,Asalariados,Canarias,136548
+2021,6,Asalariados,Cantabria,20227
+2021,6,Asalariados,Castilla - La Mancha,65121
+2021,6,Asalariados,Castilla y Leon,57773
+2021,6,Asalariados,Cataluna,340033
+2021,6,Asalariados,Ceuta y Melilla,4398
+2021,6,Asalariados,Comunidad Foral de Navarra,16164
+2021,6,Asalariados,Comunidad Valenciana,190551
+2021,6,Asalariados,Comunidad de Madrid,332377
+2021,6,Asalariados,Extremadura,22666
+2021,6,Asalariados,Galicia,81333
+2021,6,Asalariados,Islas Baleares,114655
+2021,6,Asalariados,La Rioja,8311
+2021,6,Asalariados,Pais Vasco,65050
+2021,6,Asalariados,Principado de Asturias,33613
+2021,6,Asalariados,Region de Murcia,42214
+2021,6,Autonomos,Andalucia,84309
+2021,6,Autonomos,Aragon,12321
+2021,6,Autonomos,Canarias,22860
+2021,6,Autonomos,Cantabria,5649
+2021,6,Autonomos,Castilla - La Mancha,20671
+2021,6,Autonomos,Castilla y Leon,21880
+2021,6,Autonomos,Cataluna,84567
+2021,6,Autonomos,Comunidad Valenciana,52660
+2021,6,Autonomos,Comunidad de Madrid,66982
+2021,6,Autonomos,Extremadura,7978
+2021,6,Autonomos,Galicia,25204
+2021,6,Autonomos,Islas Baleares,23920
+2021,6,Autonomos,Pais Vasco,14063
+2021,6,Autonomos,Principado de Asturias,10992
+2021,6,Autonomos,Region de Murcia,13600
+2021,9,Asalariados,Andalucia,335556
+2021,9,Asalariados,Aragon,44868
+2021,9,Asalariados,Canarias,176648
+2021,9,Asalariados,Cantabria,32213
+2021,9,Asalariados,Castilla - La Mancha,79447
+2021,9,Asalariados,Castilla y Leon,70031
+2021,9,Asalariados,Cataluna,365669
+2021,9,Asalariados,Ceuta y Melilla,5471
+2021,9,Asalariados,Comunidad Foral de Navarra,19186
+2021,9,Asalariados,Comunidad Valenciana,210104
+2021,9,Asalariados,Comunidad de Madrid,356547
+2021,9,Asalariados,Extremadura,21732
+2021,9,Asalariados,Galicia,87460
+2021,9,Asalariados,Islas Baleares,152801
+2021,9,Asalariados,La Rioja,9208
+2021,9,Asalariados,Pais Vasco,67172
+2021,9,Asalariados,Principado de Asturias,38675
+2021,9,Asalariados,Region de Murcia,42409
+2021,9,Autonomos,Andalucia,75558
+2021,9,Autonomos,Aragon,12891
+2021,9,Autonomos,Canarias,22783
+2021,9,Autonomos,Cantabria,5744
+2021,9,Autonomos,Castilla - La Mancha,22144
+2021,9,Autonomos,Castilla y Leon,25208
+2021,9,Autonomos,Cataluna,90616
+2021,9,Autonomos,Comunidad Foral de Navarra,5004
+2021,9,Autonomos,Comunidad Valenciana,57293
+2021,9,Autonomos,Comunidad de Madrid,70691
+2021,9,Autonomos,Extremadura,7609
+2021,9,Autonomos,Galicia,24670
+2021,9,Autonomos,Islas Baleares,23355
+2021,9,Autonomos,Pais Vasco,16631
+2021,9,Autonomos,Principado de Asturias,9932
+2021,9,Autonomos,Region de Murcia,15820
+2021,12,Asalariados,Andalucia,314650
+2021,12,Asalariados,Aragon,46744
+2021,12,Asalariados,Canarias,208021
+2021,12,Asalariados,Cantabria,22891
+2021,12,Asalariados,Castilla - La Mancha,70284
+2021,12,Asalariados,Castilla y Leon,71347
+2021,12,Asalariados,Cataluna,332541
+2021,12,Asalariados,Ceuta y Melilla,4145
+2021,12,Asalariados,Comunidad Foral de Navarra,18410
+2021,12,Asalariados,Comunidad Valenciana,201768
+2021,12,Asalariados,Comunidad de Madrid,332876
+2021,12,Asalariados,Extremadura,19448
+2021,12,Asalariados,Galicia,83014
+2021,12,Asalariados,Islas Baleares,97324
+2021,12,Asalariados,La Rioja,8274
+2021,12,Asalariados,Pais Vasco,71152
+2021,12,Asalariados,Principado de Asturias,33357
+2021,12,Asalariados,Region de Murcia,42797
+2021,12,Autonomos,Andalucia,82618
+2021,12,Autonomos,Aragon,11400
+2021,12,Autonomos,Canarias,22096
+2021,12,Autonomos,Cantabria,5231
+2021,12,Autonomos,Castilla - La Mancha,19861
+2021,12,Autonomos,Castilla y Leon,25346
+2021,12,Autonomos,Cataluna,88651
+2021,12,Autonomos,Comunidad Foral de Navarra,6167
+2021,12,Autonomos,Comunidad Valenciana,48169
+2021,12,Autonomos,Comunidad de Madrid,69861
+2021,12,Autonomos,Extremadura,9436
+2021,12,Autonomos,Galicia,24186
+2021,12,Autonomos,Islas Baleares,22622
+2021,12,Autonomos,Pais Vasco,16357
+2021,12,Autonomos,Principado de Asturias,9220
+2021,12,Autonomos,Region de Murcia,14362
+2022,3,Asalariados,Andalucia,314062
+2022,3,Asalariados,Aragon,43600
+2022,3,Asalariados,Canarias,190640
+2022,3,Asalariados,Cantabria,25714
+2022,3,Asalariados,Castilla - La Mancha,74299
+2022,3,Asalariados,Castilla y Leon,68533
+2022,3,Asalariados,Cataluna,342240
+2022,3,Asalariados,Ceuta y Melilla,4062
+2022,3,Asalariados,Comunidad Foral de Navarra,21837
+2022,3,Asalariados,Comunidad Valenciana,195265
+2022,3,Asalariados,Comunidad de Madrid,336539
+2022,3,Asalariados,Extremadura,19535
+2022,3,Asalariados,Galicia,80394
+2022,3,Asalariados,Islas Baleares,99083
+2022,3,Asalariados,La Rioja,8187
+2022,3,Asalariados,Pais Vasco,70665
+2022,3,Asalariados,Principado de Asturias,32187
+2022,3,Asalariados,Region de Murcia,40665
+2022,3,Autonomos,Andalucia,72172
+2022,3,Autonomos,Aragon,11526
+2022,3,Autonomos,Canarias,22487
+2022,3,Autonomos,Cantabria,5327
+2022,3,Autonomos,Castilla - La Mancha,15261
+2022,3,Autonomos,Castilla y Leon,32139
+2022,3,Autonomos,Cataluna,81541
+2022,3,Autonomos,Comunidad Foral de Navarra,6350
+2022,3,Autonomos,Comunidad Valenciana,55808
+2022,3,Autonomos,Comunidad de Madrid,61926
+2022,3,Autonomos,Extremadura,8231
+2022,3,Autonomos,Galicia,24895
+2022,3,Autonomos,Islas Baleares,19182
+2022,3,Autonomos,Pais Vasco,15807
+2022,3,Autonomos,Principado de Asturias,9522
+2022,3,Autonomos,Region de Murcia,14288
+2022,6,Asalariados,Andalucia,354918
+2022,6,Asalariados,Aragon,47072
+2022,6,Asalariados,Canarias,215012
+2022,6,Asalariados,Cantabria,26132
+2022,6,Asalariados,Castilla - La Mancha,83341
+2022,6,Asalariados,Castilla y Leon,81296
+2022,6,Asalariados,Cataluna,365278
+2022,6,Asalariados,Ceuta y Melilla,3475
+2022,6,Asalariados,Comunidad Foral de Navarra,20696
+2022,6,Asalariados,Comunidad Valenciana,225997
+2022,6,Asalariados,Comunidad de Madrid,362065
+2022,6,Asalariados,Extremadura,20560
+2022,6,Asalariados,Galicia,84745
+2022,6,Asalariados,Islas Baleares,146925
+2022,6,Asalariados,La Rioja,8679
+2022,6,Asalariados,Pais Vasco,74959
+2022,6,Asalariados,Principado de Asturias,33339
+2022,6,Asalariados,Region de Murcia,49570
+2022,6,Autonomos,Andalucia,84238
+2022,6,Autonomos,Aragon,14142
+2022,6,Autonomos,Canarias,30046
+2022,6,Autonomos,Cantabria,6954
+2022,6,Autonomos,Castilla - La Mancha,18025
+2022,6,Autonomos,Castilla y Leon,28189
+2022,6,Autonomos,Cataluna,89370
+2022,6,Autonomos,Comunidad Foral de Navarra,8605
+2022,6,Autonomos,Comunidad Valenciana,64929
+2022,6,Autonomos,Comunidad de Madrid,62138
+2022,6,Autonomos,Extremadura,9045
+2022,6,Autonomos,Galicia,25194
+2022,6,Autonomos,Islas Baleares,24152
+2022,6,Autonomos,Pais Vasco,15302
+2022,6,Autonomos,Principado de Asturias,8900
+2022,6,Autonomos,Region de Murcia,20978
+2022,9,Asalariados,Andalucia,379194
+2022,9,Asalariados,Aragon,42295
+2022,9,Asalariados,Canarias,216996
+2022,9,Asalariados,Cantabria,32105
+2022,9,Asalariados,Castilla - La Mancha,84052
+2022,9,Asalariados,Castilla y Leon,83661
+2022,9,Asalariados,Cataluna,385277
+2022,9,Asalariados,Ceuta y Melilla,4347
+2022,9,Asalariados,Comunidad Foral de Navarra,21679
+2022,9,Asalariados,Comunidad Valenciana,218519
+2022,9,Asalariados,Comunidad de Madrid,332334
+2022,9,Asalariados,Extremadura,20664
+2022,9,Asalariados,Galicia,90436
+2022,9,Asalariados,Islas Baleares,177280
+2022,9,Asalariados,La Rioja,10184
+2022,9,Asalariados,Pais Vasco,82177
+2022,9,Asalariados,Principado de Asturias,39672
+2022,9,Asalariados,Region de Murcia,43800
+2022,9,Autonomos,Andalucia,84456
+2022,9,Autonomos,Aragon,13363
+2022,9,Autonomos,Canarias,35891
+2022,9,Autonomos,Cantabria,5690
+2022,9,Autonomos,Castilla - La Mancha,10442
+2022,9,Autonomos,Castilla y Leon,28558
+2022,9,Autonomos,Cataluna,97246
+2022,9,Autonomos,Comunidad Foral de Navarra,5720
+2022,9,Autonomos,Comunidad Valenciana,55394
+2022,9,Autonomos,Comunidad de Madrid,53220
+2022,9,Autonomos,Extremadura,8423
+2022,9,Autonomos,Galicia,23714
+2022,9,Autonomos,Islas Baleares,22050
+2022,9,Autonomos,Pais Vasco,19035
+2022,9,Autonomos,Principado de Asturias,10207
+2022,9,Autonomos,Region de Murcia,18543
+2022,12,Asalariados,Andalucia,340905
+2022,12,Asalariados,Aragon,43313
+2022,12,Asalariados,Canarias,220135
+2022,12,Asalariados,Cantabria,27760
+2022,12,Asalariados,Castilla - La Mancha,81633
+2022,12,Asalariados,Castilla y Leon,74329
+2022,12,Asalariados,Cataluna,361011
+2022,12,Asalariados,Ceuta y Melilla,3599
+2022,12,Asalariados,Comunidad Foral de Navarra,23031
+2022,12,Asalariados,Comunidad Valenciana,214937
+2022,12,Asalariados,Comunidad de Madrid,362880
+2022,12,Asalariados,Extremadura,21327
+2022,12,Asalariados,Galicia,85989
+2022,12,Asalariados,Islas Baleares,111723
+2022,12,Asalariados,La Rioja,8724
+2022,12,Asalariados,Pais Vasco,79516
+2022,12,Asalariados,Principado de Asturias,33490
+2022,12,Asalariados,Region de Murcia,42449
+2022,12,Autonomos,Andalucia,71976
+2022,12,Autonomos,Aragon,14269
+2022,12,Autonomos,Canarias,42723
+2022,12,Autonomos,Cantabria,4703
+2022,12,Autonomos,Castilla - La Mancha,17584
+2022,12,Autonomos,Castilla y Leon,25817
+2022,12,Autonomos,Cataluna,94929
+2022,12,Autonomos,Comunidad Foral de Navarra,6259
+2022,12,Autonomos,Comunidad Valenciana,54141
+2022,12,Autonomos,Comunidad de Madrid,57163
+2022,12,Autonomos,Extremadura,7757
+2022,12,Autonomos,Galicia,24555
+2022,12,Autonomos,Islas Baleares,11979
+2022,12,Autonomos,Pais Vasco,14375
+2022,12,Autonomos,Principado de Asturias,11288
+2022,12,Autonomos,Region de Murcia,17414
+2023,3,Asalariados,Andalucia,326866
+2023,3,Asalariados,Aragon,44609
+2023,3,Asalariados,Canarias,230378
+2023,3,Asalariados,Cantabria,25373
+2023,3,Asalariados,Castilla - La Mancha,83986
+2023,3,Asalariados,Castilla y Leon,69860
+2023,3,Asalariados,Cataluna,348250
+2023,3,Asalariados,Ceuta y Melilla,4022
+2023,3,Asalariados,Comunidad Foral de Navarra,23052
+2023,3,Asalariados,Comunidad Valenciana,204032
+2023,3,Asalariados,Comunidad de Madrid,371741
+2023,3,Asalariados,Extremadura,20971
+2023,3,Asalariados,Galicia,87246
+2023,3,Asalariados,Islas Baleares,93569
+2023,3,Asalariados,La Rioja,8554
+2023,3,Asalariados,Pais Vasco,78052
+2023,3,Asalariados,Principado de Asturias,36587
+2023,3,Asalariados,Region de Murcia,44127
+2023,3,Autonomos,Andalucia,73234
+2023,3,Autonomos,Aragon,11907
+2023,3,Autonomos,Canarias,37597
+2023,3,Autonomos,Cantabria,7299
+2023,3,Autonomos,Castilla - La Mancha,16397
+2023,3,Autonomos,Castilla y Leon,24628
+2023,3,Autonomos,Cataluna,79999
+2023,3,Autonomos,Comunidad Foral de Navarra,5024
+2023,3,Autonomos,Comunidad Valenciana,44564
+2023,3,Autonomos,Comunidad de Madrid,56112
+2023,3,Autonomos,Extremadura,7047
+2023,3,Autonomos,Galicia,25972
+2023,3,Autonomos,Islas Baleares,20823
+2023,3,Autonomos,Pais Vasco,14253
+2023,3,Autonomos,Principado de Asturias,9265
+2023,3,Autonomos,Region de Murcia,16189
+2023,6,Asalariados,Andalucia,381141
+2023,6,Asalariados,Aragon,46344
+2023,6,Asalariados,Canarias,231362
+2023,6,Asalariados,Cantabria,25498
+2023,6,Asalariados,Castilla - La Mancha,87355
+2023,6,Asalariados,Castilla y Leon,73609
+2023,6,Asalariados,Cataluna,395429
+2023,6,Asalariados,Ceuta y Melilla,5165
+2023,6,Asalariados,Comunidad Foral de Navarra,25287
+2023,6,Asalariados,Comunidad Valenciana,229325
+2023,6,Asalariados,Comunidad de Madrid,381806
+2023,6,Asalariados,Extremadura,25785
+2023,6,Asalariados,Galicia,101656
+2023,6,Asalariados,Islas Baleares,184271
+2023,6,Asalariados,La Rioja,10363
+2023,6,Asalariados,Pais Vasco,81260
+2023,6,Asalariados,Principado de Asturias,38753
+2023,6,Asalariados,Region de Murcia,57274
+2023,6,Autonomos,Andalucia,73162
+2023,6,Autonomos,Aragon,13006
+2023,6,Autonomos,Canarias,39842
+2023,6,Autonomos,Cantabria,7235
+2023,6,Autonomos,Castilla - La Mancha,19662
+2023,6,Autonomos,Castilla y Leon,23937
+2023,6,Autonomos,Cataluna,91180
+2023,6,Autonomos,Comunidad Foral de Navarra,5295
+2023,6,Autonomos,Comunidad Valenciana,50454
+2023,6,Autonomos,Comunidad de Madrid,58228
+2023,6,Autonomos,Extremadura,8647
+2023,6,Autonomos,Galicia,28404
+2023,6,Autonomos,Islas Baleares,17887
+2023,6,Autonomos,Pais Vasco,17698
+2023,6,Autonomos,Principado de Asturias,8048
+2023,6,Autonomos,Region de Murcia,15764
+2023,9,Asalariados,Andalucia,407357
+2023,9,Asalariados,Aragon,50493
+2023,9,Asalariados,Canarias,229739
+2023,9,Asalariados,Cantabria,28171
+2023,9,Asalariados,Castilla - La Mancha,88980
+2023,9,Asalariados,Castilla y Leon,74565
+2023,9,Asalariados,Cataluna,436104
+2023,9,Asalariados,Ceuta y Melilla,5707
+2023,9,Asalariados,Comunidad Foral de Navarra,21825
+2023,9,Asalariados,Comunidad Valenciana,246319
+2023,9,Asalariados,Comunidad de Madrid,365390
+2023,9,Asalariados,Extremadura,27158
+2023,9,Asalariados,Galicia,106342
+2023,9,Asalariados,Islas Baleares,204654
+2023,9,Asalariados,La Rioja,10402
+2023,9,Asalariados,Pais Vasco,85017
+2023,9,Asalariados,Principado de Asturias,43355
+2023,9,Asalariados,Region de Murcia,61041
+2023,9,Autonomos,Andalucia,67626
+2023,9,Autonomos,Aragon,12174
+2023,9,Autonomos,Canarias,38062
+2023,9,Autonomos,Cantabria,6121
+2023,9,Autonomos,Castilla - La Mancha,22667
+2023,9,Autonomos,Castilla y Leon,21111
+2023,9,Autonomos,Cataluna,77727
+2023,9,Autonomos,Ceuta y Melilla,1
+2023,9,Autonomos,Comunidad Foral de Navarra,5758
+2023,9,Autonomos,Comunidad Valenciana,51162
+2023,9,Autonomos,Comunidad de Madrid,59000
+2023,9,Autonomos,Extremadura,7941
+2023,9,Autonomos,Galicia,30658
+2023,9,Autonomos,Islas Baleares,18906
+2023,9,Autonomos,Pais Vasco,14434
+2023,9,Autonomos,Principado de Asturias,7055
+2023,9,Autonomos,Region de Murcia,14119
+2023,12,Asalariados,Andalucia,332557
+2023,12,Asalariados,Aragon,50749
+2023,12,Asalariados,Canarias,232461
+2023,12,Asalariados,Cantabria,28327
+2023,12,Asalariados,Castilla - La Mancha,82250
+2023,12,Asalariados,Castilla y Leon,77313
+2023,12,Asalariados,Cataluna,385622
+2023,12,Asalariados,Ceuta y Melilla,4670
+2023,12,Asalariados,Comunidad Foral de Navarra,21559
+2023,12,Asalariados,Comunidad Valenciana,202956
+2023,12,Asalariados,Comunidad de Madrid,368624
+2023,12,Asalariados,Extremadura,28326
+2023,12,Asalariados,Galicia,97010
+2023,12,Asalariados,Islas Baleares,122594
+2023,12,Asalariados,La Rioja,7486
+2023,12,Asalariados,Pais Vasco,74113
+2023,12,Asalariados,Principado de Asturias,35753
+2023,12,Asalariados,Region de Murcia,58310
+2023,12,Autonomos,Andalucia,71034
+2023,12,Autonomos,Aragon,10137
+2023,12,Autonomos,Canarias,32193
+2023,12,Autonomos,Cantabria,5709
+2023,12,Autonomos,Castilla - La Mancha,21366
+2023,12,Autonomos,Castilla y Leon,18744
+2023,12,Autonomos,Cataluna,85751
+2023,12,Autonomos,Comunidad Foral de Navarra,5679
+2023,12,Autonomos,Comunidad Valenciana,51234
+2023,12,Autonomos,Comunidad de Madrid,63752
+2023,12,Autonomos,Extremadura,6972
+2023,12,Autonomos,Galicia,31361
+2023,12,Autonomos,Islas Baleares,21819
+2023,12,Autonomos,Pais Vasco,19198
+2023,12,Autonomos,Principado de Asturias,6408
+2023,12,Autonomos,Region de Murcia,10148
+2024,3,Asalariados,Andalucia,333685
+2024,3,Asalariados,Aragon,55992
+2024,3,Asalariados,Canarias,229143
+2024,3,Asalariados,Cantabria,25526
+2024,3,Asalariados,Castilla - La Mancha,81608
+2024,3,Asalariados,Castilla y Leon,73641
+2024,3,Asalariados,Cataluna,447739
+2024,3,Asalariados,Ceuta y Melilla,4879
+2024,3,Asalariados,Comunidad Foral de Navarra,21414
+2024,3,Asalariados,Comunidad Valenciana,222767
+2024,3,Asalariados,Comunidad de Madrid,373440
+2024,3,Asalariados,Extremadura,27726
+2024,3,Asalariados,Galicia,95633
+2024,3,Asalariados,Islas Baleares,101713
+2024,3,Asalariados,La Rioja,7499
+2024,3,Asalariados,Pais Vasco,72592
+2024,3,Asalariados,Principado de Asturias,38396
+2024,3,Asalariados,Region de Murcia,51549
+2024,3,Autonomos,Andalucia,75547
+2024,3,Autonomos,Aragon,12852
+2024,3,Autonomos,Canarias,27001
+2024,3,Autonomos,Cantabria,6618
+2024,3,Autonomos,Castilla - La Mancha,23359
+2024,3,Autonomos,Castilla y Leon,18930
+2024,3,Autonomos,Cataluna,90213
+2024,3,Autonomos,Comunidad Valenciana,53378
+2024,3,Autonomos,Comunidad de Madrid,71093
+2024,3,Autonomos,Extremadura,9372
+2024,3,Autonomos,Galicia,30433
+2024,3,Autonomos,Islas Baleares,20151
+2024,3,Autonomos,Pais Vasco,19910
+2024,3,Autonomos,Principado de Asturias,8543
+2024,3,Autonomos,Region de Murcia,12190
+2024,6,Asalariados,Andalucia,390954
+2024,6,Asalariados,Aragon,52621
+2024,6,Asalariados,Canarias,236906
+2024,6,Asalariados,Cantabria,29694
+2024,6,Asalariados,Castilla - La Mancha,86415
+2024,6,Asalariados,Castilla y Leon,77105
+2024,6,Asalariados,Cataluna,440376
+2024,6,Asalariados,Ceuta y Melilla,4746
+2024,6,Asalariados,Comunidad Foral de Navarra,21889
+2024,6,Asalariados,Comunidad Valenciana,243191
+2024,6,Asalariados,Comunidad de Madrid,394208
+2024,6,Asalariados,Extremadura,28694
+2024,6,Asalariados,Galicia,96182
+2024,6,Asalariados,Islas Baleares,184919
+2024,6,Asalariados,La Rioja,7314
+2024,6,Asalariados,Pais Vasco,81301
+2024,6,Asalariados,Principado de Asturias,43055
+2024,6,Asalariados,Region de Murcia,54453
+2024,6,Autonomos,Andalucia,80002
+2024,6,Autonomos,Aragon,11678
+2024,6,Autonomos,Canarias,27723
+2024,6,Autonomos,Cantabria,6458
+2024,6,Autonomos,Castilla - La Mancha,21217
+2024,6,Autonomos,Castilla y Leon,21015
+2024,6,Autonomos,Cataluna,83193
+2024,6,Autonomos,Comunidad Valenciana,68918
+2024,6,Autonomos,Comunidad de Madrid,66988
+2024,6,Autonomos,Extremadura,9416
+2024,6,Autonomos,Galicia,29998
+2024,6,Autonomos,Islas Baleares,18576
+2024,6,Autonomos,Pais Vasco,16680
+2024,6,Autonomos,Principado de Asturias,9026
+2024,6,Autonomos,Region de Murcia,11774
+2024,9,Asalariados,Andalucia,402105
+2024,9,Asalariados,Aragon,48400
+2024,9,Asalariados,Canarias,239028
+2024,9,Asalariados,Cantabria,33401
+2024,9,Asalariados,Castilla - La Mancha,88373
+2024,9,Asalariados,Castilla y Leon,85642
+2024,9,Asalariados,Cataluna,477017
+2024,9,Asalariados,Ceuta y Melilla,4829
+2024,9,Asalariados,Comunidad Foral de Navarra,23572
+2024,9,Asalariados,Comunidad Valenciana,249902
+2024,9,Asalariados,Comunidad de Madrid,396789
+2024,9,Asalariados,Extremadura,28623
+2024,9,Asalariados,Galicia,101087
+2024,9,Asalariados,Islas Baleares,183129
+2024,9,Asalariados,La Rioja,8938
+2024,9,Asalariados,Pais Vasco,79831
+2024,9,Asalariados,Principado de Asturias,39120
+2024,9,Asalariados,Region de Murcia,61124
+2024,9,Autonomos,Andalucia,74645
+2024,9,Autonomos,Aragon,15309
+2024,9,Autonomos,Canarias,30482
+2024,9,Autonomos,Cantabria,6583
+2024,9,Autonomos,Castilla - La Mancha,18199
+2024,9,Autonomos,Castilla y Leon,21074
+2024,9,Autonomos,Cataluna,84956
+2024,9,Autonomos,Comunidad Foral de Navarra,3387
+2024,9,Autonomos,Comunidad Valenciana,57762
+2024,9,Autonomos,Comunidad de Madrid,64844
+2024,9,Autonomos,Extremadura,8763
+2024,9,Autonomos,Galicia,28443
+2024,9,Autonomos,Islas Baleares,18298
+2024,9,Autonomos,Pais Vasco,13314
+2024,9,Autonomos,Principado de Asturias,8492
+2024,9,Autonomos,Region de Murcia,8499
+2024,12,Asalariados,Andalucia,372147
+2024,12,Asalariados,Aragon,49774
+2024,12,Asalariados,Canarias,240611
+2024,12,Asalariados,Cantabria,28506
+2024,12,Asalariados,Castilla - La Mancha,89655
+2024,12,Asalariados,Castilla y Leon,74941
+2024,12,Asalariados,Cataluna,453771
+2024,12,Asalariados,Ceuta y Melilla,4060
+2024,12,Asalariados,Comunidad Foral de Navarra,17802
+2024,12,Asalariados,Comunidad Valenciana,253272
+2024,12,Asalariados,Comunidad de Madrid,440570
+2024,12,Asalariados,Extremadura,24665
+2024,12,Asalariados,Galicia,92358
+2024,12,Asalariados,Islas Baleares,131448
+2024,12,Asalariados,La Rioja,9487
+2024,12,Asalariados,Pais Vasco,76867
+2024,12,Asalariados,Principado de Asturias,38518
+2024,12,Asalariados,Region de Murcia,51548
+2024,12,Autonomos,Andalucia,79341
+2024,12,Autonomos,Aragon,14428
+2024,12,Autonomos,Canarias,27599
+2024,12,Autonomos,Cantabria,7602
+2024,12,Autonomos,Castilla - La Mancha,18274
+2024,12,Autonomos,Castilla y Leon,24213
+2024,12,Autonomos,Cataluna,89537
+2024,12,Autonomos,Comunidad Valenciana,55842
+2024,12,Autonomos,Comunidad de Madrid,69067
+2024,12,Autonomos,Extremadura,11451
+2024,12,Autonomos,Galicia,28264
+2024,12,Autonomos,Islas Baleares,16235
+2024,12,Autonomos,Pais Vasco,19839
+2024,12,Autonomos,Principado de Asturias,7848
